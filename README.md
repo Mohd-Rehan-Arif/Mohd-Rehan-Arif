@@ -13,8 +13,9 @@ I don't just call APIs — I design architectures, build intelligent agents, and
 
 | Project | What It Does | Stack |
 | :--- | :--- | :--- |
-| [Vecturo](https://github.com/Mohd-Rehan-Arif/Vecturo) | *Description of your project and what problem it solves* | Python, React, AI |
-| [Arif-Consultancy](https://github.com/Mohd-Rehan-Arif/Arif-Consultancy) | *Description of your second project* | TypeScript, Node.js |
+| [Vecturo](https://vecturo.in) | *Helping local business find their clients faster by improving their search engine* | Python, React, AI |
+| [Arif-Consultancy](https://github.com/Mohd-Rehan-Arif/Arif-Consultancy) | *Client-1: SEO-personalised website, helping the clients know about the Law, also improving client satisfaction and annual revenue* | TypeScript, Node.js |
+| [NextStep] | An AI integrated web platform designed to help learners learn faster using inbuild tools like-structured roadmaps, AI chatbot, Quiz and flashcards section and a smart resource manager | JavaScript, Emergent AI |
 
 ## 📊 GitHub Stats
 
@@ -23,4 +24,5 @@ I don't just call APIs — I design architectures, build intelligent agents, and
 ## 📫 Reach Me
 
 - GitHub: [@Mohd-Rehan-Arif](https://github.com/Mohd-Rehan-Arif)
+- Email: rehanarif78602@gmail.com
 - Domain / Portfolio: vecturo.in
